@@ -6,7 +6,7 @@ A full-stack course planning platform built for Penn State students.
 
 ## What it does
 
-Schedula helps students plan their course schedules smarter — with real-time search, filtering, and an ML-powered recommendation engine that suggests courses based on collaborative filtering and NLP sentiment analysis.
+Schedula helps students plan their course schedules smarter with real-time search, filtering, and an ML-powered recommendation engine that suggests courses based on collaborative filtering and NLP sentiment analysis.
 
 ## Tech Stack
 
